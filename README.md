@@ -33,12 +33,12 @@ project_brief.txt
 
 ### Key Features
 
-- **RAG-grounded responses** — answers are always anchored to the project brief, not hallucinated
-- **Adaptive questioning** — detects vague user queries and asks for clarification instead of guessing, simulating real client behaviour
-- **Intentional ambiguity** — a `generate_vague_response()` layer rephrases direct answers into open-ended client-style language, encouraging students to dig deeper
-- **Conversation history** — full multi-turn context is maintained and passed to GPT-4 on every exchange
-- **Summarisation** — one-click summary of the full conversation, useful for post-session review
-- **Swappable project briefs** — replace `project_brief.txt` with any project to simulate a different client
+- **RAG-grounded responses** : answers are always anchored to the project brief, not hallucinated
+- **Adaptive questioning** : detects vague user queries and asks for clarification instead of guessing, simulating real client behaviour
+- **Intentional ambiguity** : a `generate_vague_response()` layer rephrases direct answers into open-ended client-style language, encouraging students to dig deeper
+- **Conversation history** : full multi-turn context is maintained and passed to GPT-4 on every exchange
+- **Summarisation** : one-click summary of the full conversation, useful for post-session review
+- **Swappable project briefs** : replace `project_brief.txt` with any project to simulate a different client
 
 ---
 
