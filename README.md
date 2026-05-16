@@ -14,6 +14,8 @@ Yakazi addresses this by acting as that client, grounded in a real project brief
 ---
 
 ## How It Works
+<img width="1572" height="925" alt="image" src="https://github.com/user-attachments/assets/9838525f-5938-4297-a8b1-7e57493ca942" />
+
 
 The system runs three components in parallel:
 
