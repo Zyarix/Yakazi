@@ -9,7 +9,7 @@ Yakazi simulates a software engineering client using GPT-4 and FAISS-based retri
 
 Requirements elicitation is one of the hardest skills to teach in software engineering. Static project briefs don't talk back. Role-playing exercises depend on whoever you can get in a room. Neither replicates the ambiguity, evasiveness, or evolving nature of a real client conversation.
 
-Yakazi addresses this by acting as that client — grounded in a real project brief, intentionally vague, and capable of sustained multi-turn dialogue.
+Yakazi addresses this by acting as that client, grounded in a real project brief, intentionally vague, and capable of sustained multi-turn dialogue.
 
 ---
 
