@@ -149,4 +149,4 @@ The FAISS server and Flask app run as independent processes to keep the vector s
 
 ## Author
 
-**Ismail Jonkunda Ceesay** — [github.com/Zyarix](https://github.com/Zyarix)
+**Ismail Jonkunda Ceesay** — [github.com/IsmailCeesay](https://github.com/IsmailCeesay)
